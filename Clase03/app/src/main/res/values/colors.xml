@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Screen Welcome -->
+    <color name="welcome_name">#7E859A</color>
+    <color name="welcome_description">#B2BFC5</color>
+
+
+</resources>
