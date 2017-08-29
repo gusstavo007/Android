@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Clase05</string>
+
+    <!-- Screen Home -->
+    <string name="home_btn_gridview">Ir al GridView</string>
+    <string name="home_btn_listview">Ir al Listview</string>
+    <string name="home_btn_viewpager">Ir al ViewPager</string>
+
+    <!-- List view-->
+    <string name="estado_text">Developer in android</string>
+    <string name="name_people">Gustavo :V</string>
+    <string name="count_message">3</string>
+    <string name="houra_message">12:07 PM</string>
+
+
+</resources>

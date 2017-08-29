@@ -40,7 +40,7 @@ public class WelcomeActivity extends AppCompatActivity {
         if (Clase03Globals.lista == null) {
             Clase03Globals.lista = new ArrayList<UserModel>();
         }
-        
+
         int imgCurrent = 0;
         for (int i = 0; i < 7; i++) {
 

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00877b</color>
+    <color name="colorPrimaryDark">#009688</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Screen Launcher -->
+    <color name="launcher_background">#1ABC9C</color>
+    <color name="primary_text">#000000</color>
+    <color name="has_message">#ffffff</color>
+    <color name="round_message">#d60707</color>
+
+
+</resources>
